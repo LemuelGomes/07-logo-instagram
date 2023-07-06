@@ -1,0 +1,45 @@
+#logo-instagram 
+{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 300px;
+    height: 300px;
+    background-image: linear-gradient(45deg,#fcdd81, #fecd65, #fe3e30, #ca1fa0, #5852cf, #006ee0);
+    border-radius: 25%;
+}
+
+#logo-instagram-borda
+{
+    position: relative;
+    float: left;
+    width: 180px;
+    height: 180px;
+    border: 20px solid white;
+    border-radius: 25%;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#logo-instagram-circulo
+{
+    position: relative;
+    float: left;
+    width: 70px;
+    height: 70px;
+    border: 20px solid white;
+    border-radius: 50%;
+    margin-top: 95px;
+    margin-left: -165px;
+}
+
+#logo-instagram-ponto
+{
+    position: absolute;
+    top: 75px;
+    right: 70px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+}
